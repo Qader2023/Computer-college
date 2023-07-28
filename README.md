@@ -1,1 +1,1 @@
-# Coputer-college
+# Computer-college
